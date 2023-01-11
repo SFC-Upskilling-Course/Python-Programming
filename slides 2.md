@@ -40,4 +40,3 @@ In this module, we will use [Replit](https://replit.com) which is an online inte
  
 We have set up a repository that can be accessed here:
 [SFC Upskilling Repo](https://replit.com/join/ajpjdluhtl-hasantahir2)
-

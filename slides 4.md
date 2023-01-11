@@ -38,31 +38,22 @@ Hasan T Abbas
 <!-- This is presenter note. You can write down notes through HTML comment. -->
 
 --- 
+# Functions
 
-<div class="columns">
-<div class="columns-left">
+![bg 55%](assets/function.svg)
 
-# Outline
-
-- Functions
-
-![bg right:25% 95%](https://media3.giphy.com/media/3oEjHWPTo7c0ajPwty/200.gif)
-
+---
 # Functions :bento:
 
 - Functions are essentially small blocks of code that perform a specific task
 Using functions makes the code *tidy*
 - <span style="color:red"> *Divide and conquer* </span> strategy of problem-solving
 
-
 ```python
 # Piecing it Together - Functions
 def name( parameters or arguments ): # all functions are identifiable through the parantheses. Also note the : at the end
     statements # note again the indentation
 ```
-
-![bg right:40% 95%](assets/function.svg)
-
 ---
 # Basic Functions
 
@@ -91,12 +82,13 @@ howdy()
 
 # An example function that prints a greeting message 
 
-def howdy(name):
+def howdy2(name):
     # the actual body of the function
-    print("Howdy! + name\n")
+    print("Howdy! " + name + "\n")
     print("How's it going?")
 
-howdy("Fiona")
+
+howdy2("Fiona")
 ```
 
 ---
